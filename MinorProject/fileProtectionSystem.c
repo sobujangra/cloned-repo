@@ -1,4 +1,7 @@
 // File Protection System using File Handling in C by Sourabh Jangra & Akhil Kalsi
+// Features to add
+// *** hidePassword
+// -ls command
 
 // Header Files
 #include <stdio.h>   // FILE, printf() etc.
